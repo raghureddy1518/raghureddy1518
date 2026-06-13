@@ -1,53 +1,126 @@
-<!-- SECTION G: VISITOR COUNTER -->
-![Profile Views]( https://komarev.com/ghpvc/?username=your_github_username_here )
+<!-- ================== VISITOR COUNTER ================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghureddy1518&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-# 👋🏻 Hello there!
-![Waving Hand](
-)
+<!-- ================== HEADER ================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+</p>
 
-# I'm a Full Stack Developer 🚀
-<br>
-<div align="center">
-  <img src=" https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00C68C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Passionate+about+Building+Web+Applications;Always+Eager+to+Learn+New+Technologies ;" alt="Typing SVG" />
-</div>
-<br>
+<h1 align="center">Hi, I'm Raghu Kurme 👋</h1>
 
-## About Me
-Hi! I'm Raghu Kurme, a fresher Full Stack Developer with a passion for creating dynamic and responsive web applications. I enjoy learning new technologies and improving my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+Developer;Fresher+%7C+Passionate+Learner;Building+Clean+and+Scalable+Web+Apps&center=true&width=550&height=50&color=58A6FF&vCenter=true&pause=1000&size=24">
+</p>
 
-- 🌟 I love working with both frontend and backend technologies.
-- 💻 I’m currently exploring the world of AI and ML.
-- 🎨 In my free time, I enjoy designing UI/UX.
-- 📚 I'm a lifelong learner who is always eager for new challenges.
+<p align="center">
+  <a href="https://github.com/raghureddy1518">
+    <img src="https://img.shields.io/github/followers/raghureddy1518?label=Followers&style=for-the-badge&color=blue">
+  </a>
+  <a href="https://github.com/raghureddy1518">
+    <img src="https://img.shields.io/github/stars/raghureddy1518?affiliations=OWNER&style=for-the-badge&color=yellow">
+  </a>
+</p>
 
-## Tech Stack
-### Frontend
-[![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white )]( https://developer.mozilla.org/en-US/docs/Web/HTML )
-[![CSS]( https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white )]( https://developer.mozilla.org/en-US/docs/Web/CSS )
-[![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black )]( https://developer.mozilla.org/en-US/docs/Web/JavaScript )
-[![React]( https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black )]( https://reactjs.org/ )
+---
 
-### Backend
-[![Java]( https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white )]( https://www.oracle.com/java/ )
-[![Python]( https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white )]( https://www.python.org/ )
-[![Spring Boot]( https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white )]( https://spring.io/projects/spring-boot )
+## 👨‍💻 About Me
 
-### Database
-[![MySQL]( https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white )]( https://www.mysql.com/ )
-[![MongoDB]( https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white )]( https://www.mongodb.com/ )
+🚀 Fresher Full Stack Developer passionate about building modern, scalable web applications and continuously improving my development skills.
 
-## Connect with Me
-[![LinkedIn]( https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white )]( https://www.linkedin.com/in/kurme-raghureddy-4b17b834b?utm_source=share_via&utm_content=profile&utm_medium=member_android )
+### ✨ A Few Things About Me
 
-## GitHub Stats
-![Raghu's GitHub Stats]( https://github-readme-stats.vercel.app/api?username=your_github_username_here&count_private=true&show_icons=true&theme=tokyonight )
-![GitHub Streak Stats]( https://github-readme-streak-stats.herokuapp.com/?user=your_github_username_here&theme=tokyonight )
-![Top Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username_here&layout=compact&theme=tokyonight )
+- 🌱 Currently learning advanced Spring Boot and React concepts
+- 💻 Love turning ideas into real-world applications
+- 🔥 Enjoy solving coding challenges and improving problem-solving skills
+- 🎯 Working towards becoming a professional software engineer
+- ⚡ Always excited to explore new technologies
 
-## GitHub Trophies
-![GitHub Profile Trophy]( https://github-profile-trophy.vercel.app/?username=your_github_username_here&theme=darkhub&row=1&column=7 )
+---
 
-## Let's Connect
-Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/kurme-raghureddy-4b17b834b?utm_source=share_via&utm_content=profile&utm_medium=member_android ).
+## 🛠️ Tech Stack
 
-Let’s build something amazing together! 😊
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🌐 Social Links
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kurme-raghureddy-4b17b834b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghureddy1518&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghureddy1518&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghureddy1518&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raghureddy1518&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghureddy1518&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kurme-raghureddy-4b17b834b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Raghu%20Kurme-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
+Building projects, learning every day, and growing as a Full Stack Developer 🚀
+</p>
